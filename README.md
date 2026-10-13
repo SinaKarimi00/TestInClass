@@ -1,1 +1,3 @@
 # TestInClass
+
+Test
