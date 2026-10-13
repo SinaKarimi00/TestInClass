@@ -21,6 +21,8 @@ public class test : MonoBehaviour
     private int _rotateSpeedSign;
     private int coin;
 
+    private int age;
+
     private void Start()
     {
         resetButton.onClick.AddListener(ResetGame);
